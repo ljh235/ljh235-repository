@@ -1,7 +1,7 @@
 ******************************************************************************
                   MSP430 Linker PC v16.6.0                     
 ******************************************************************************
->> Linked Tue Mar 14 16:47:34 2017
+>> Linked Tue Jun 27 14:17:14 2017
 
 OUTPUT FILE NAME:   <Timer Toggle LED.out>
 ENTRY POINT SYMBOL: "_c_int00_noinit_noargs_noexit"  address: 0000f06e

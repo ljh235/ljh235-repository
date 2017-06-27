@@ -19,7 +19,7 @@ int main(void) {
 
 	CCR0 = 12000;
 	CCR1 = 24000;
-	CCR2 = 36000;
+	CCR2 = 48000;
 
 			CCTL0 = CCIE;
 			CCTL1 = CCIE;
@@ -50,7 +50,7 @@ switch( TAIV )
 		break;
 
 		case 4 : P2OUT ^= BIT2;
-		CCR2 += 36000;
+		CCR2 += 24000;
 		break;
 	}
 }

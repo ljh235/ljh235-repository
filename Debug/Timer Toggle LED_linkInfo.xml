@@ -2,7 +2,7 @@
 <link_info>
    <banner>MSP430 Linker PC v16.6.0.STS</banner>
    <copyright>Copyright (c) 2003-2015 Texas Instruments Incorporated</copyright>
-   <link_time>0x58c7a016</link_time>
+   <link_time>0x5951ea5a</link_time>
    <link_errors>0x0</link_errors>
    <output_file>Timer Toggle LED.out</output_file>
    <entry_point>
